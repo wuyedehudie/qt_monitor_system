@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/btn_close_n.png</file>
+        <file>src/exit.png</file>
+        <file>src/minimize.png</file>
+    </qresource>
+</RCC>

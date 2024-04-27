@@ -1,0 +1,9 @@
+# 忽略编译生成的文件
+build/
+bin/
+
+# 忽略临时文件
+temp/
+
+# 忽略特定文件
+CMakeLists.txt.user
